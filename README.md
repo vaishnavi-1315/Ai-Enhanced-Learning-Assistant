@@ -1,0 +1,1 @@
+An AI – Enhanced Question Answer Generation And Evaluation System Leverages Advanced Natural Language Processing Techniques To Automatically Generate And Asses Questions And Answers. This System Can Create Diverse And Contextually Relevant Questions From Textual Content, Enabling Comprehensive Evaluations And Personalized Learning.
